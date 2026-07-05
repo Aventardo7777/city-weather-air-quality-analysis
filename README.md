@@ -8,7 +8,9 @@
 <img src="https://img.shields.io/badge/Matplotlib%2FSeaborn-Visual-green?style=flat-square" />
 <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" />
 
-[👉 仓库直达链接（新标签打开）](https://github.com/Aventardo7777/city-weather-air-quality-analysis)
+<br>
+<a href="https:github.com/Aventardo7777/city-weather-air-quality-analysis" target="_blank">👉 仓库直达链接（新标签打开）</a>
+</div>
 
 ---
 
